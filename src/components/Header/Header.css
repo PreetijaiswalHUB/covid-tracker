@@ -1,0 +1,21 @@
+.app__dropdown {
+    background-color: white;
+    background-color: rgba(154, 210, 231, 0.952);
+  }
+  
+  .app__header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+  }
+  
+  .app__header > h1 {
+    color: #fc3c3c;
+    font-size: 2rem;
+  }
+  .select{
+    font-weight: 600;
+    border: 3px solid white;
+    border-radius: 10px;
+  }

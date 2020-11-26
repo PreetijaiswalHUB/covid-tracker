@@ -1,0 +1,14 @@
+.app__stats {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  @media (max-width: 768px) {
+
+    .app__stats {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+  }
